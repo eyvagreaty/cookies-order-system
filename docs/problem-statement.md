@@ -1,0 +1,3 @@
+# Problem Statement
+
+Small cookie businesses are using different platforms to receive customer orders, such as WhatsApp and any other social media. Most of the business manage their order manually, which is difficult to monitor order progress and respond to customers at the same time. These difficulties may lead to delayed responses and inefficient order management. Therefore, customers and business manager may experience inconvenience when checking order information and coordinating order updates.
