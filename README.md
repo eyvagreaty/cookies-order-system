@@ -10,6 +10,17 @@ Small cookie businesses are using different platforms to receive customer orders
 - [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
 
+## Project Roadmap
+
+### Sprint 1: Project Planning and Requirements
+
+- [x] Create the project repository and README
+- [x] Document the problem statement
+- [x] Define functional and non-functional requirements
+- [x] Write user stories and acceptance criteria
+- [ ] Number requirements and link each user story to its corresponding requirement
+- [ ] Complete and merge the README roadmap update
+
 ## Status
 Planning (CSC649, Week 2)
 
