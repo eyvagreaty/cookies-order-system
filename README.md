@@ -18,11 +18,11 @@ Small cookie businesses are using different platforms to receive customer orders
 - [x] Document the problem statement
 - [x] Define functional and non-functional requirements
 - [x] Write user stories and acceptance criteria
-- [ ] Number requirements and link each user story to its corresponding requirement
-- [ ] Complete and merge the README roadmap update
+- [x] Number requirements and link each user story to its corresponding requirement
+- [x] Complete and merge the README roadmap update
 
 ## Status
-Planning (CSC649, Week 2)
+Completed (CSC649, Week 4)
 
 ## Author
-[Eyva Greaty Geoffrey]
+[Eyva Greaty Geoffrey, 2024208934]
