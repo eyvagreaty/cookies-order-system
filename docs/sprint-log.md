@@ -11,6 +11,9 @@ By the end of this lab my user stories have acceptance criteria and my README sh
 | #1 | | Add acceptance criteria to each user story | Done
 | #2 | | Add structure and roadmap to the README | Done
 | #3 | | Number the requirements and link each user story to its requirement | Done
+| #7 | | Add evidence to the problem statement | Done
+| #8 | | Choose the specialized technology and list 3 sources | Done
+| #9 | | Outline the technology explanation | Done
 
 ### Daily standup notes
 - Standup 1: I will improve the consistency between the requirements and user stories. Posibble blocker that I may face is to ensure that the documentation was properly linked.
