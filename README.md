@@ -20,6 +20,9 @@ Small cookie businesses are using different platforms to receive customer orders
 - [x] Write user stories and acceptance criteria
 - [x] Number requirements and link each user story to its corresponding requirement
 - [x] Complete and merge the README roadmap update
+- [x] Add evidence to the problem statement
+- [x] Choose the specialized technology and list 3 sources
+- [x] Outline the technology explanation
 
 ## Status
 Completed (CSC649, Week 4)
