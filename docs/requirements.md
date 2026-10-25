@@ -17,7 +17,7 @@ FR05 - Delivery Management
 The system shall enable the Admin to update delivery status of orders. 
 
 ## Non-functional requirements 
-NF01 - Performance 
+NFR01 - Performance 
 The system shall load pages within 3 seconds and complete checkout within 5 seconds.
 
 NFR02 - Data Integrity
