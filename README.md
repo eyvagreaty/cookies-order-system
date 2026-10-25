@@ -9,6 +9,7 @@ Small cookie businesses are using different platforms to receive customer orders
 - [Problem statement](docs/problem-statement.md)
 - [Requirements](docs/requirements.md)
 - [User stories](docs/user-stories.md)
+- [Technology](docs/Technology.md)
 
 ## Project Roadmap
 
